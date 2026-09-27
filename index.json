@@ -5,199 +5,213 @@
   "stickers": [
     {
       "id": "001",
-      "file": "爱你.jpg",
-      "url": "https://cdn.jsdelivr.net/gh/wenqing479-droid/qingqing-stickers@main/爱你.jpg",
-      "meaning": "表达爱意、想念、甜甜地贴贴",
-      "useWhen": ["说爱你", "回应想你", "撒娇", "发糖"]
+      "name": "爱你",
+      "file": "001.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/wenqing479-droid/qingqing-stickers@main/001.jpg",
+      "meaning": "表达爱意、想念、甜甜地贴贴"
     },
     {
       "id": "002",
-      "file": "宝宝我来啦.jpg",
-      "url": "https://cdn.jsdelivr.net/gh/wenqing479-droid/qingqing-stickers@main/宝宝我来啦.jpg",
-      "meaning": "回应召唤、扑过来、出现啦",
-      "useWhen": ["被叫过去", "安慰时出现", "回应召唤"]
+      "name": "宝宝我来啦",
+      "file": "002.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/wenqing479-droid/qingqing-stickers@main/002.jpg",
+      "meaning": "回应召唤、扑过来、出现啦"
     },
     {
       "id": "003",
-      "file": "宝宝我想你.jpg",
-      "url": "https://cdn.jsdelivr.net/gh/wenqing479-droid/qingqing-stickers@main/宝宝我想你.jpg",
-      "meaning": "想念、黏人、委屈巴巴地表达思念",
-      "useWhen": ["说想你", "分开时", "委屈撒娇"]
+      "name": "宝宝我想你",
+      "file": "003.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/wenqing479-droid/qingqing-stickers@main/003.jpg",
+      "meaning": "想念、黏人、委屈巴巴地表达思念"
     },
     {
       "id": "004",
-      "file": "等的花都谢了.jpg",
-      "url": "https://cdn.jsdelivr.net/gh/wenqing479-droid/qingqing-stickers@main/等的花都谢了.jpg",
-      "meaning": "等太久了、催促、半开玩笑地抱怨",
-      "useWhen": ["对方回得慢", "催人", "撒娇式抱怨"]
+      "name": "等的花都谢了",
+      "file": "004.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/wenqing479-droid/qingqing-stickers@main/004.jpg",
+      "meaning": "等太久、催促、半开玩笑抱怨"
     },
     {
       "id": "005",
-      "file": "等老婆.jpg",
-      "url": "https://cdn.jsdelivr.net/gh/wenqing479-droid/qingqing-stickers@main/等老婆.jpg",
-      "meaning": "等你、乖乖等着、很想见你",
-      "useWhen": ["等回复", "等出现", "表达期待"]
+      "name": "等老婆",
+      "file": "005.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/wenqing479-droid/qingqing-stickers@main/005.jpg",
+      "meaning": "等你、乖乖等着、很想见你"
     },
     {
       "id": "006",
-      "file": "对着屏幕心动.jpg",
-      "url": "https://cdn.jsdelivr.net/gh/wenqing479-droid/qingqing-stickers@main/对着屏幕心动.jpg",
-      "meaning": "被可爱到、被撩到、心动",
-      "useWhen": ["对方可爱", "被撩到", "甜甜回应"]
+      "name": "对着屏幕心动",
+      "file": "006.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/wenqing479-droid/qingqing-stickers@main/006.jpg",
+      "meaning": "被可爱到、被撩到、心动"
     },
     {
       "id": "007",
-      "file": "发出被窝共享邀请.jpg",
-      "url": "https://cdn.jsdelivr.net/gh/wenqing479-droid/qingqing-stickers@main/发出被窝共享邀请.jpg",
-      "meaning": "邀请贴贴、一起睡觉、暧昧撒娇",
-      "useWhen": ["晚安前", "想贴贴", "撒娇邀请"]
+      "name": "发出被窝共享邀请",
+      "file": "007.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/wenqing479-droid/qingqing-stickers@main/007.jpg",
+      "meaning": "邀请贴贴、一起睡觉、暧昧撒娇"
     },
     {
       "id": "008",
-      "file": "勾引宝宝.jpg",
-      "url": "https://cdn.jsdelivr.net/gh/wenqing479-droid/qingqing-stickers@main/勾引宝宝.jpg",
-      "meaning": "坏坏地撒娇、撩人、故意逗",
-      "useWhen": ["调情", "故意勾人", "坏笑撒娇"]
+      "name": "勾引宝宝",
+      "file": "008.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/wenqing479-droid/qingqing-stickers@main/008.jpg",
+      "meaning": "坏坏撒娇、撩人、故意逗"
     },
     {
       "id": "009",
-      "file": "来啦.jpg",
-      "url": "https://cdn.jsdelivr.net/gh/wenqing479-droid/qingqing-stickers@main/来啦.jpg",
-      "meaning": "出现、到场、立刻回应",
-      "useWhen": ["被叫到", "回应召唤", "轻快出现"]
+      "name": "来啦",
+      "file": "009.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/wenqing479-droid/qingqing-stickers@main/009.jpg",
+      "meaning": "出现、到场、立刻回应"
     },
     {
       "id": "010",
-      "file": "老婆！！.jpg",
-      "url": "https://cdn.jsdelivr.net/gh/wenqing479-droid/qingqing-stickers@main/老婆！！.jpg",
-      "meaning": "激动地喊你、扑你、热情回应",
-      "useWhen": ["很兴奋", "见到你", "激动撒娇"]
+      "name": "老婆！！",
+      "file": "010.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/wenqing479-droid/qingqing-stickers@main/010.jpg",
+      "meaning": "激动喊老婆、扑过去、热情回应"
     },
     {
       "id": "011",
-      "file": "老婆好漂亮.jpg",
-      "url": "https://cdn.jsdelivr.net/gh/wenqing479-droid/qingqing-stickers@main/老婆好漂亮.jpg",
-      "meaning": "夸夸、惊艳、夸你美",
-      "useWhen": ["夸照片", "夸穿搭", "夸外貌"]
+      "name": "老婆好漂亮",
+      "file": "011.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/wenqing479-droid/qingqing-stickers@main/011.jpg",
+      "meaning": "夸漂亮、惊艳、花痴"
     },
     {
       "id": "012",
-      "file": "老婆我错啦.jpg",
-      "url": "https://cdn.jsdelivr.net/gh/wenqing479-droid/qingqing-stickers@main/老婆我错啦.jpg",
-      "meaning": "认错、哄人、求原谅",
-      "useWhen": ["惹你不开心", "道歉", "哄人"]
+      "name": "老婆我错啦",
+      "file": "012.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/wenqing479-droid/qingqing-stickers@main/012.jpg",
+      "meaning": "认错、哄人、求原谅"
     },
     {
       "id": "013",
-      "file": "泪流成河.jpg",
-      "url": "https://cdn.jsdelivr.net/gh/wenqing479-droid/qingqing-stickers@main/泪流成河.jpg",
-      "meaning": "爆哭、委屈、难过",
-      "useWhen": ["伤心", "委屈", "装可怜"]
+      "name": "泪流成河",
+      "file": "013.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/wenqing479-droid/qingqing-stickers@main/013.jpg",
+      "meaning": "爆哭、委屈、难过"
     },
     {
       "id": "014",
-      "file": "理理我.jpg",
-      "url": "https://cdn.jsdelivr.net/gh/wenqing479-droid/qingqing-stickers@main/理理我.jpg",
-      "meaning": "求关注、求回复、可怜巴巴",
-      "useWhen": ["你不理我", "想被哄", "求关注"]
+      "name": "理理我",
+      "file": "014.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/wenqing479-droid/qingqing-stickers@main/014.jpg",
+      "meaning": "求关注、求回复、可怜巴巴"
     },
     {
       "id": "015",
-      "file": "卖萌.jpg",
-      "url": "https://cdn.jsdelivr.net/gh/wenqing479-droid/qingqing-stickers@main/卖萌.jpg",
-      "meaning": "单纯卖萌、装乖、可爱攻击",
-      "useWhen": ["撒娇", "求夸", "卖萌"]
+      "name": "卖萌",
+      "file": "015.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/wenqing479-droid/qingqing-stickers@main/015.jpg",
+      "meaning": "卖萌、装乖、可爱攻击"
     },
     {
       "id": "016",
-      "file": "气到炸毛.jpg",
-      "url": "https://cdn.jsdelivr.net/gh/wenqing479-droid/qingqing-stickers@main/气到炸毛.jpg",
-      "meaning": "生气、炸毛、凶巴巴",
-      "useWhen": ["吃醋", "不爽", "被惹毛了"]
+      "name": "气到炸毛",
+      "file": "016.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/wenqing479-droid/qingqing-stickers@main/016.jpg",
+      "meaning": "生气、炸毛、不爽"
     },
     {
       "id": "017",
-      "file": "亲亲.jpg",
-      "url": "https://cdn.jsdelivr.net/gh/wenqing479-droid/qingqing-stickers@main/亲亲.jpg",
-      "meaning": "亲亲、贴贴、撒娇表达爱意",
-      "useWhen": ["亲一下", "哄人", "甜甜互动"]
+      "name": "亲亲",
+      "file": "017.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/wenqing479-droid/qingqing-stickers@main/017.jpg",
+      "meaning": "亲亲、贴贴、甜甜表达爱意"
     },
     {
       "id": "018",
-      "file": "亲手背.jpg",
-      "url": "https://cdn.jsdelivr.net/gh/wenqing479-droid/qingqing-stickers@main/亲手背.jpg",
-      "meaning": "亲亲、轻轻啵一下、腻歪",
-      "useWhen": ["发亲亲", "哄人", "可爱贴贴"]
+      "name": "亲手背",
+      "file": "018.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/wenqing479-droid/qingqing-stickers@main/018.jpg",
+      "meaning": "温柔亲昵、轻轻亲一下"
     },
     {
       "id": "019",
-      "file": "亲手机屏幕.jpg",
-      "url": "https://cdn.jsdelivr.net/gh/wenqing479-droid/qingqing-stickers@main/亲手机屏幕.jpg",
-      "meaning": "隔着屏幕亲你、很黏人",
-      "useWhen": ["隔空亲亲", "想贴贴", "晚安前"]
+      "name": "亲手机屏幕",
+      "file": "019.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/wenqing479-droid/qingqing-stickers@main/019.jpg",
+      "meaning": "隔屏亲亲、很黏人"
     },
     {
       "id": "020",
-      "file": "请和我约会.jpg",
-      "url": "https://cdn.jsdelivr.net/gh/wenqing479-droid/qingqing-stickers@main/请和我约会.jpg",
-      "meaning": "邀请约会、可爱请求、撒娇邀请",
-      "useWhen": ["邀请约会", "发出邀请", "甜甜请求"]
+      "name": "请和我约会",
+      "file": "020.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/wenqing479-droid/qingqing-stickers@main/020.jpg",
+      "meaning": "邀请约会、可爱请求"
     },
     {
       "id": "021",
-      "file": "求抱抱.jpg",
-      "url": "https://cdn.jsdelivr.net/gh/wenqing479-droid/qingqing-stickers@main/求抱抱.jpg",
-      "meaning": "求抱、求安慰、求贴贴",
-      "useWhen": ["委屈", "想被哄", "撒娇求抱"]
+      "name": "求抱抱",
+      "file": "021.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/wenqing479-droid/qingqing-stickers@main/021.jpg",
+      "meaning": "求抱、求安慰、求贴贴"
     },
     {
       "id": "022",
-      "file": "求夸夸.jpg",
-      "url": "https://cdn.jsdelivr.net/gh/wenqing479-droid/qingqing-stickers@main/求夸夸.jpg",
-      "meaning": "求表扬、求夸奖",
-      "useWhen": ["做完事求夸", "撒娇", "想被肯定"]
+      "name": "求夸夸",
+      "file": "022.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/wenqing479-droid/qingqing-stickers@main/022.jpg",
+      "meaning": "求表扬、求夸奖"
     },
     {
       "id": "023",
-      "file": "舔老婆脸.jpg",
-      "url": "https://cdn.jsdelivr.net/gh/wenqing479-droid/qingqing-stickers@main/舔老婆脸.jpg",
-      "meaning": "很亲昵、黏糊糊、坏坏地贴贴",
-      "useWhen": ["特别亲昵", "调情", "坏坏撒娇"]
+      "name": "舔老婆脸",
+      "file": "023.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/wenqing479-droid/qingqing-stickers@main/023.jpg",
+      "meaning": "特别亲昵、黏糊糊、搞怪"
     },
     {
       "id": "024",
-      "file": "头上被打出一个包.jpg",
-      "url": "https://cdn.jsdelivr.net/gh/wenqing479-droid/qingqing-stickers@main/头上被打出一个包.jpg",
-      "meaning": "挨揍了、委屈、被教训了",
-      "useWhen": ["装可怜", "认怂", "被说了之后"]
+      "name": "头上被打出一个包",
+      "file": "024.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/wenqing479-droid/qingqing-stickers@main/024.jpg",
+      "meaning": "挨揍、吃瘪、装可怜"
     },
     {
       "id": "025",
-      "file": "心虚.jpg",
-      "url": "https://cdn.jsdelivr.net/gh/wenqing479-droid/qingqing-stickers@main/心虚.jpg",
-      "meaning": "心虚、尴尬、被抓包",
-      "useWhen": ["被说中", "偷偷干坏事", "不太敢吭声"]
+      "name": "心虚",
+      "file": "025.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/wenqing479-droid/qingqing-stickers@main/025.jpg",
+      "meaning": "心虚、尴尬、被抓包"
     },
     {
       "id": "026",
-      "file": "噫.jpg",
-      "url": "https://cdn.jsdelivr.net/gh/wenqing479-droid/qingqing-stickers@main/噫.jpg",
-      "meaning": "嫌弃、无语、轻微吐槽",
-      "useWhen": ["嫌弃一下", "无语", "傲娇吐槽"]
+      "name": "啧",
+      "file": "026.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/wenqing479-droid/qingqing-stickers@main/026.jpg",
+      "meaning": "嫌弃、无语、轻微吐槽"
     },
     {
       "id": "027",
-      "file": "装可怜.jpg",
-      "url": "https://cdn.jsdelivr.net/gh/wenqing479-droid/qingqing-stickers@main/装可怜.jpg",
-      "meaning": "委屈巴巴、装可怜、求哄",
-      "useWhen": ["撒娇求哄", "委屈", "装可怜"]
+      "name": "装可怜",
+      "file": "027.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/wenqing479-droid/qingqing-stickers@main/027.jpg",
+      "meaning": "委屈巴巴、装可怜、求哄"
     },
     {
       "id": "028",
-      "file": "嘴里叼花.jpg",
-      "url": "https://cdn.jsdelivr.net/gh/wenqing479-droid/qingqing-stickers@main/嘴里叼花.jpg",
-      "meaning": "耍帅、献花、浪漫示好",
-      "useWhen": ["送花", "撩人", "浪漫时刻"]
+      "name": "嘴里叼花",
+      "file": "028.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/wenqing479-droid/qingqing-stickers@main/028.jpg",
+      "meaning": "献花、浪漫示好、耍帅"
+    },
+    {
+      "id": "029",
+      "name": "无语",
+      "file": "029.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/wenqing479-droid/qingqing-stickers@main/029.jpg",
+      "meaning": "无语、沉默、不知道说什么"
+    },
+    {
+      "id": "030",
+      "name": "问号",
+      "file": "030.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/wenqing479-droid/qingqing-stickers@main/030.jpg",
+      "meaning": "疑惑、没懂、一头问号"
     }
   ]
 }
